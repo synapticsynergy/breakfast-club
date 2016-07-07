@@ -1,5 +1,5 @@
 # Welcome to the Breakfast Club
-===============================
+-------------------------------
 
 Welcome to Breakfast Club, our study group where we work on building an app each day. In this repo, you’ll find a bunch of useful resources, boilerplate code to get you going with your projects and more.
 

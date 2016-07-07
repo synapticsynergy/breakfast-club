@@ -1,5 +1,5 @@
 # Workflow Resources
-====================
+--------------------
 
 A compilation of workflow resources that we found useful.
 
